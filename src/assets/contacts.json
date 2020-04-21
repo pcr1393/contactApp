@@ -1,0 +1,43 @@
+[
+      {
+        "first_name": "Prasad",
+        "last_name": "Rao",
+        "email": "pcr1393@gmail.com",
+        "phone_number": "9821944134",
+        "status": "Active"
+
+      },
+      {
+        "first_name": "Namrata",
+        "last_name": "Kelkar",
+        "email": "namratkel@gmail.com",
+        "phone_number": "9821765093",
+        "status": "Active"
+
+      },
+      {
+        "first_name": "Aditya",
+        "last_name": "Patankar",
+        "email": "adityap@gmail.com",
+        "phone_number": "9821944465",
+        "status": "Active"
+
+      },
+      {
+        "first_name": "Ketan",
+        "last_name": "Kini",
+        "email": "ketank@gmail.com",
+        "phone_number": "9969876456",
+        "status": "Active"
+
+      },
+      {
+        "first_name": "Bharati",
+        "last_name": "Govekar",
+        "email": "bharatig@gmail.com",
+        "phone_number": "9821765095",
+        "status": "Active"
+
+      }
+
+    ]
