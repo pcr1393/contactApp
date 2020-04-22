@@ -11,6 +11,8 @@ Things implemented in this project
 5) Ability to delete an existing contact from the directory 
 6) Ability to filter the Contact Information by first name, last name, email, phone number or status
 7) Validation for Phone number as no text can be entered there.
+8) All the components in the web app are unit tested with code coverage over 100% and you can find the coverage report under coverage folder in the root directory
+
 
 ## Development server
 
