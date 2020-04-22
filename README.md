@@ -13,6 +13,7 @@ Things implemented in this project
 7) Validation for Phone number as no text can be entered there.
 8) All the components in the web app are unit tested with code coverage over 100% and you can find the coverage report under coverage folder in the root directory
 
+While creating this web app, the best software design practices and coding standards were used. I have segregated the components, filters, services, models for better folder structure. 
 
 ## Development server
 
